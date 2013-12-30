@@ -1,0 +1,20 @@
+{
+  "name": "expires-middleware",
+  "version": "0.0.1",
+  "description": "Middleware to set cache-control expiration headers",
+  "keywords": [],
+  "author": "segmentio <team@segment.io>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/expires-middleware.git"
+  },
+  "dependencies": {
+    "ms": "~0.6.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "express": "~3.4.7",
+    "supertest": "~0.8.2"
+  },
+  "main": "lib/index"
+}
