@@ -2,7 +2,13 @@
   "name": "expires-middleware",
   "version": "0.0.1",
   "description": "Middleware to set cache-control expiration headers",
-  "keywords": [],
+  "keywords": [
+    "connect",
+    "middleware",
+    "cache-control",
+    "expires",
+    "expiration"
+  ],
   "author": "segmentio <team@segment.io>",
   "repository": {
     "type": "git",
